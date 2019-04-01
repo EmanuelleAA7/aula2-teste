@@ -1,6 +1,13 @@
+#isso é um cometário
+
+#ignorando arquivos por extensão
 *.doc
 *.docx
 *.zip
 
-
+#ignorando diretórios(pastas) por nome
 testes/
+
+#ignorando arquivos específicos
+mundial_do_palmeiras.txt
+
